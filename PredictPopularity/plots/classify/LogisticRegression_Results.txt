@@ -1,0 +1,5 @@
+Logistic Regression - Predict Popularity
+Best parameters: {'C': 0.01}
+Accuracy: 0.8352 ~ 83.52%
+Execution time: 00:00:37
+

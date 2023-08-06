@@ -1,0 +1,5 @@
+Random Forest - Predict Popularity
+Best parameters: {'criterion': 'entropy', 'max_depth': 8, 'max_features': 'sqrt', 'n_estimators': 200}
+Accuracy: 0.9485 ~ 94.85%
+Execution time: 00:00:51
+

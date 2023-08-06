@@ -1,0 +1,5 @@
+Naive Bayes - Predict Popularity
+Best parameters: {'var_smoothing': 8.111308307896873e-06}
+Accuracy: 0.8846 ~ 88.46%
+Execution time: 00:00:01
+

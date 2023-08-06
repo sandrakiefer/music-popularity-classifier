@@ -1,0 +1,5 @@
+Decision Tree - Predict Popularity
+Best parameters: {'criterion': 'gini', 'max_depth': 8, 'max_features': 'sqrt'}
+Accuracy: 0.7955 ~ 79.55%
+Execution time: 00:00:00
+

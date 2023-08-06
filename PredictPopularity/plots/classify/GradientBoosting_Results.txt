@@ -1,0 +1,5 @@
+Gradient Boosting - Predict Popularity
+Best parameters: {'learning_rate': 0.1, 'max_depth': 8, 'max_features': 'sqrt'}
+Accuracy: 0.9771 ~ 97.71%
+Execution time: 00:02:49
+

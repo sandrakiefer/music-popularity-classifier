@@ -1,0 +1,20 @@
+Linear Regression - Predict Views
+Mean Squared Error: 13 845 475 698 058 648,00
+Intercept: -16 007 024,49
+Execution time: 00:00:00
+
+Linear Regression - Predict Likes
+Mean Squared Error: 332 489 855 901,60
+Intercept: -39 968,13
+Execution time: 00:00:00
+
+Linear Regression - Predict Comments
+Mean Squared Error: 8 512 847 112,78
+Intercept: 1 646,59
+Execution time: 00:00:00
+
+Linear Regression - Predict Stream
+Mean Squared Error: 29 869 146 780 298 188,00
+Intercept: 232 584 491,66
+Execution time: 00:00:00
+

@@ -1,0 +1,20 @@
+Complex Regression - Predict Views
+Mean Squared Error: 3 186 447 608 515 025 408,00
+Intercept: 48 732 827,67
+Execution time: 00:01:11
+
+Complex Regression - Predict Likes
+Mean Squared Error: 51 371 805 025 899,93
+Intercept: 287 607,55
+Execution time: 00:01:01
+
+Complex Regression - Predict Comments
+Mean Squared Error: 30 114 110 934,74
+Intercept: 9 495,87
+Execution time: 00:00:56
+
+Complex Regression - Predict Stream
+Mean Squared Error: 167 281 257 616 288 192,00
+Intercept: 115 517 776,01
+Execution time: 00:00:49
+

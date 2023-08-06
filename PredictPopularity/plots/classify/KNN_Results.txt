@@ -1,0 +1,5 @@
+KNN - Predict Popularity
+Best parameters: {'n_neighbors': 13, 'weights': 'uniform'}
+Accuracy: 0.9541 ~ 95.41%
+Execution time: 00:00:04
+

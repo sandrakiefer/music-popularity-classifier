@@ -1,0 +1,5 @@
+SVM - Predict Popularity
+Best parameters: {'C': 5, 'kernel': 'rbf'}
+Accuracy: 0.9527 ~ 95.27%
+Execution time: 00:00:06
+
